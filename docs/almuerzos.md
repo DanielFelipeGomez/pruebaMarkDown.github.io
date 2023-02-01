@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Almuerzos
 
 [Tartar de salmon](./tartar_salmon.md)
