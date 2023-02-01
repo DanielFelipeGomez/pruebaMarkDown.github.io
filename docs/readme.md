@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 [Desayunos](./desayunos.md)
 
