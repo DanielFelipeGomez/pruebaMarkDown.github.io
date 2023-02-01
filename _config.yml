@@ -1,1 +1,17 @@
-theme: dinky
+# Site settings
+title: My Website
+description: A website powered by Github Pages
+
+# Theme settings
+theme: jekyll-theme-hacker
+
+# Markdown settings
+markdown: kramdown
+
+# Github Pages settings
+github:
+  repository: DanielFelipeGomez/temas.gitgub.io
+
+# Build settings
+permalink: /:year/:month/:day/:title/
+paginate: 5
