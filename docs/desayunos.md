@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Desayunos
 
 [Tortitas de avena](./tortitas_avena.md)
