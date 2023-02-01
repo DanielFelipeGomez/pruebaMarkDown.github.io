@@ -1,37 +1,27 @@
-# Indice
-## Desayuno
-### Tortitas de avena
-## Almuerzo
-### Tartar de salmon
-## Cena
-### Pizza con base de atún
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      /* your styles here */
+      h1 {
+        color: blue;
+        text-align: center;
+        font-family: Arial, sans-serif;
+      }
+      p {
+        font-size: 18px;
+        line-height: 1.5;
+        font-family: Georgia, serif;
+        text-indent: 50px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Your Markdown content here -->
+    # My Heading
+    Some text
 
-
-
-# Desayuno
-
-## Tortitas de avena
-
-### Ingredientes: avena, huevo, leche, plátano y toppings opcionales (yogurt, fruta, crema de maní, semillas, etc).
-
-![Desayuno Avena](des.jpeg)
-
-***
-
-# Almuerzo
-
-## Tartar de salmon
-
-### Ingredientes: .
-
-![Tartar de salmon](almu.jpeg)
-
-***
-
-# Cena
-
-# Pizza con base de atún
-
-### Ingredientes: (1 huevo, 140gr atún escurrido, 10gr harina de avena, cucharadita de cebolla en polvo, 1/2 cucharadita de ajo en polvo, 1/2 cuchcaradita de sal) triturar en batidora, añadimos 1 cucharada de salsa de tomate. Sobre un papel de horno poner esta masa en una sarten, tras darle la vuelta cocinamos un poco más y ponemos los toppings. Finalmente cocinamos con tapa 1 minuto.
-
-![pizza base de atún](cena.jpeg)
+    ## Subheading
+    More text
+  </body>
+</html>
