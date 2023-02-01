@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Cenas
 
 [Pizza con base de atún](./pizza_atun.md)
