@@ -2,4 +2,4 @@
 
 ## Ingredientes: salmon, aguacate, salmon, aguacate, salmon, aguacate, salmon, aguacate y salmon
 
-![tartar_salmon](../images/tartar_salmon.jpg)
+![tartar_salmon](./tartar_salmon.jpg)
