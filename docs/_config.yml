@@ -3,7 +3,7 @@ title: Recetario Sara y Dani
 description: Un libro de recetas lleno de alegria y sabor
 
 # Theme settings
-theme: just-the-docs
+remote_theme: daviddarnes/alembic@main
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
